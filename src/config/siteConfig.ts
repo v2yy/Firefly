@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "慢慢来，比较快",
 
 	// 站点 URL
-	site_url: "https://www.crazy1024.com",
+	site_url: "https://v2yy.com",
 
 	// 站点描述
 	description:
