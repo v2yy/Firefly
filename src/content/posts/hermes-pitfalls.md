@@ -7,7 +7,7 @@ image: ""
 tags: [Hermes, AI Agent, 运维, 踩坑记录]
 category: 技术笔记
 draft: false
-pinned: true
+pinned: false
 comment: true
 ---
 
