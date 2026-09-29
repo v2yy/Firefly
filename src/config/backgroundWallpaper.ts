@@ -73,17 +73,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "一言即诺",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"路灯再亮，街角也是黑暗。",
+				"有些话只说一遍，所以一言即诺。",
+				"城市不睡，总有人替它亮着灯。",
+				"承诺很轻，记得的人很重。",
+				"深夜的屏幕，是成年人最后的窗。",
+				"慢慢来，比较快。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
