@@ -99,7 +99,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	// 自定义导航栏链接
 	links.push({
 		name: "GitHub",
-		url: "https://github.com/yangyang1187",
+		url: "https://github.com/v2yy",
 		external: true,
 		icon: "fa7-brands:github",
 	});
